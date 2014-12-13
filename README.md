@@ -17,3 +17,8 @@ So this is my oportunity to try it out, and that's what this repo is about: lear
 Thanks for passing by
 
 David Silva
+
+# Debug with Clewn
+
+David Gow pointed to KDevelop (linux), although I'm going to use [Clewn](http://clewn.sourceforge.net/install.html) as I use Vim Editor.
+
