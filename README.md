@@ -21,4 +21,4 @@ David Silva
 # Debug with Clewn
 
 David Gow pointed to KDevelop (linux), although I'm going to use [Clewn](http://clewn.sourceforge.net/install.html) as I use Vim Editor.
-
+- I might skip this for now, just for reference
