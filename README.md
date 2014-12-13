@@ -22,3 +22,9 @@ David Silva
 
 David Gow pointed to KDevelop (linux), although I'm going to use [Clewn](http://clewn.sourceforge.net/install.html) as I use Vim Editor.
 - I might skip this for now, just for reference
+
+# SDL v2
+
+Download and Install it from source
+
+  ./configure; make; make install
