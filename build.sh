@@ -2,4 +2,4 @@
 
 mkdir -p build
 pushd build
-c++ ../code/sdl_handmade.cpp
+c++ ../code/sdl_handmade.cpp -o handmadehero
